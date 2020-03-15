@@ -1,0 +1,9 @@
+#btnEditarUsuario {
+    display: none;
+}
+
+.mi_contenedor {
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: burlywood;
+}
